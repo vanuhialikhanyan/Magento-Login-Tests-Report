@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test verifies that an error message is shown when trying to log in with invalid credentials.","7957","Test Invalid Login","","Sun Sep 29 20:34:14 AMT 2024","passed","Sun Sep 29 20:34:22 AMT 2024","","Login Tests","",""
+"Verify that an error message is displayed while changing the password with an incorrect current password.","9864","Change Password with Incorrect Current Password","","Sun Sep 29 20:34:28 AMT 2024","passed","Sun Sep 29 20:34:38 AMT 2024","","Change Password Tests","",""
+"Test the login functionality with valid email and password.","5728","Valid Login Test","","Sun Sep 29 20:34:22 AMT 2024","passed","Sun Sep 29 20:34:28 AMT 2024","","Login Tests","",""
+"Verify that an error message is displayed when the new password and confirmation password do not match.","7355","Change Password Mismatch Test","","Sun Sep 29 20:34:38 AMT 2024","passed","Sun Sep 29 20:34:45 AMT 2024","","Change Password Functionality","",""
+"Verify that a user can change their password successfully with the correct current password and matching new passwords.","8337","Change Password Successfully","","Sun Sep 29 20:34:45 AMT 2024","passed","Sun Sep 29 20:34:53 AMT 2024","","Password Management Tests","",""
